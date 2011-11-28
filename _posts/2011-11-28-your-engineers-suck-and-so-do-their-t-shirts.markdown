@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your engineers suck, and so do their t-shirts.
-hn: http://news.ycombinator.com/item?id=3208411
+hn: http://news.ycombinator.com/item?id=3284903
 ---
 
 
