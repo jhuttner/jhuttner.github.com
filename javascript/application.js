@@ -1,4 +1,4 @@
-jQuery(document).ready(function($){
+$(function() {
 
   $('#github').mouseover(function(){
     $('#mousing').text("GitHub");
@@ -8,11 +8,11 @@ jQuery(document).ready(function($){
     $('#mousing').html("&nbsp;");
   });
 
-  $('#twitter').mouseover(function(){
+  $('.twitter').mouseover(function(){
     $('#mousing').text("Twitter");
   });
 
-  $('#twitter').mouseout(function(){
+  $('.twitter').mouseout(function(){
     $('#mousing').html("&nbsp;");
   });
 
